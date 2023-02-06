@@ -1,8 +1,10 @@
 import React, { useState } from "react";
+import Nav from './Nav';
+import Heading from "./Heading";
 import pageComponents from "./pages";
 
 
-const pages = Object.keys(pageComponents)
+const pages = Object.keys(pageComponents);
 
 export default function PortfolioContainer() {
   const [currentPage, setCurrentPage] = useState('About');
@@ -13,6 +15,7 @@ export default function PortfolioContainer() {
 
   return (
     <div>
+      <Heading />
       <Nav
         currentPage={currentPage}
         handlePageChange={handlePageChange}
