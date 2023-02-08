@@ -24,6 +24,5 @@ This app was made using:
 ## License
 This app is covered under the MIT license: [MIT](https://opensource.org/licenses/MIT)
 
-## Support
+## Support  
 If you encounter problems with this README generator, please reach out to me on GitHub at: https://github.com/djbartolini, or email me at dan@bartolini.dev.
-  
