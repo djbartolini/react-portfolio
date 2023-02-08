@@ -48,7 +48,7 @@ export default function Contact() {
         <div className="col-9">
           <p className="text-center">Use the form below, or contact me directly:</p>
           <div className="row mb-5 text-center" id="link-list">
-            <a href="mailto: daniel@bartolini.dev" id="link">daniel@bartolini.dev</a>
+            <a href="mailto: daniel@bartolini.dev" id="link">daniel@barto.dev</a>
             <a href="https://github.com/djbartolini" id="link">GitHub</a>
             <a href="https://www.linkedin.com/in/daniel-bartolini-development/" id="link">LinkedIn</a>
           </div>

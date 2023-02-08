@@ -1,5 +1,5 @@
 import React from "react";
-import logo from "../assets/dev-favicon.svg"
+import logo from "../../public/images/dev-favicon.svg"
 
 function Nav({ currentPage, handlePageChange, pages }) {
   return (

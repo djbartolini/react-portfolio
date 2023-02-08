@@ -1,5 +1,5 @@
 body {
-  background-image: url('./assets/background.jpg');
+  background-image: url('../public/images/background.jpg');
   display: flex;
   justify-content: center;
   min-height: 100vh;
@@ -103,7 +103,7 @@ h3 {
 }
 
 #link {
-  color: #061024;
+  color: #c5dafc;
 }
 
 #link-list {
@@ -130,15 +130,13 @@ h3 {
   border-top-right-radius: 8px;
 }
 
-.footer-links {
-  display: flex;
-  justify-content: space-around;
-  align-items: center;
+.footer-link {
   color: white;
 }
 
-.footer-link {
-  color: white;
+.footer-name {
+  padding-left: 1rem;
+  padding-right: 1rem;
 }
 
 button {

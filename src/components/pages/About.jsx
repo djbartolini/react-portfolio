@@ -1,6 +1,6 @@
 import React from "react";
-import sofa from '../../assets/sofa-screenshot.png';
-import headshot from '../../assets/headshot.jpg'
+import sofa from '../../../public/images/sofa-screenshot.png';
+import headshot from '../../../public/images/headshot.jpg'
 
 export default function About() {
   return (
